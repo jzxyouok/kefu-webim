@@ -105,7 +105,6 @@ gulp.task('combineJs', function() {
 		'static/js/src/sdk/adapter.js',
 		'static/js/src/sdk/webim.config.js',
 		'static/js/src/sdk/websdk-1.4.6.js',
-		'static/js/src/sdk/easemob.im-1.1.1.js',
 		'static/js/src/sdk/webrtc-1.4.4.js',
 		'static/js/src/modules/polyfill.js',
 		'static/js/src/modules/utils.js',
